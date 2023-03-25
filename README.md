@@ -32,7 +32,8 @@
 </ol>
 
 # User 1: Manik Chadha
-(https://drive.google.com/file/d/1LCo9x3-P-MMjct4PnUy4qsLUUOzy_hcF/view?usp=drivesdk)
+![Manik Chadha](https://drive.google.com/uc?id=1LCo9x3-P-MMjct4PnUy4qsLUUOzy_hcF)
 
 # User 2: Varun Chadha
-(https://drive.google.com/file/d/1LEljSirq9NCD-ndnJ4-HsYutmmh_ucR3/view?usp=drivesdk)
+![Varun Chadha](https://drive.google.com/uc?id=1LEljSirq9NCD-ndnJ4-HsYutmmh_ucR3)
+
