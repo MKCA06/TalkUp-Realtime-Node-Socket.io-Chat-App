@@ -1,5 +1,5 @@
-<h1>RealTime Chat Application - LetsChat</h1>
-
+<h1>TalkUp Realtime Node Socket.io Chat App</h1>
+<h2>"Join the Conversation - TalkUp Your Life!"</h2>
 <ul>
 <li>It is an scalable Realtime Chatting Application that provides an interface for multiple user chatting at the same time.</li>
 <li>FrontEnd Technologies- HTML, CSS</li>
