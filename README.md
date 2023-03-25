@@ -32,7 +32,7 @@
 </ol>
 
 # User 1: Manik Chadha
-![Screenshot (18)](https://user-images.githubusercontent.com/49724597/87877500-56988880-c9fc-11ea-9e09-306a95deb2cb.png)
+![Screenshot (18)](https://drive.google.com/file/d/1LCo9x3-P-MMjct4PnUy4qsLUUOzy_hcF/view?usp=drivesdk)
 
 # User 2: Varun Chadha
-![Screenshot (19)](https://user-images.githubusercontent.com/49724597/87877502-57c9b580-c9fc-11ea-9ad4-fbe7aac19a47.png)
+![Screenshot (19)](https://drive.google.com/file/d/1LEljSirq9NCD-ndnJ4-HsYutmmh_ucR3/view?usp=drivesdk)
